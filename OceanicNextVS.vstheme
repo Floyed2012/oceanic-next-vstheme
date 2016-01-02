@@ -725,7 +725,7 @@
         <Background Type="CT_RAW" Source="FF92CAF4" />
       </Color>
       <Color Name="PopupPinButtonHover">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF686868" />
         <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="PopupPinButtonMouseDown">
@@ -1604,12 +1604,12 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FF3F3F3F" />
+        <Foreground Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2853,7 +2853,7 @@
         <Background Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="ScrollBar">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF3E3E42" />
       </Color>
       <Color Name="ThreeDDarkShadow">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -3426,31 +3426,31 @@
         <Background Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="ScrollBarArrowBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarArrowDisabledBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarArrowMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarArrowPressedBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarDisabledBackground">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbGlyph">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
         <Background Type="CT_RAW" Source="FF9E9E9E" />
@@ -3594,10 +3594,10 @@
         <Background Type="CT_RAW" Source="99FFFFFF" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="ToolboxSelectedHeadingBegin">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -4159,13 +4159,13 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleBarActive">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="TitleBarActiveGradientBegin">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="TitleBarActiveGradientEnd">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="TitleBarActiveText">
         <Background Type="CT_RAW" Source="D9FFFFFF" />
@@ -4216,16 +4216,16 @@
         <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF181818" />
+        <Background Type="CT_RAW" Source="FF222222" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF181818" />
+        <Background Type="CT_RAW" Source="FF222222" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF191919" />
+        <Background Type="CT_RAW" Source="FF17242C" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF191919" />
+        <Background Type="CT_RAW" Source="FF17242C" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -4333,7 +4333,7 @@
         <Background Type="CT_RAW" Source="FF434343" />
       </Color>
       <Color Name="TitleBarActiveBorder">
-        <Background Type="CT_RAW" Source="FF202020" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
       </Color>
       <Color Name="TitleBarDragHandle">
         <Background Type="CT_RAW" Source="25FFFFFF" />
@@ -4768,7 +4768,7 @@
         <Background Type="CT_RAW" Source="FF535353" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF171F23" />
+        <Background Type="CT_RAW" Source="FF1B2B34" />
         <Foreground Type="CT_RAW" Source="99FFFFFF" />
       </Color>
       <Color Name="StatusBarDebugging">
@@ -4911,7 +4911,7 @@
         <Foreground Type="CT_RAW" Source="99FFFFFF" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolTipBorder">
         <Background Type="CT_RAW" Source="FF4D4D50" />
@@ -4964,7 +4964,7 @@
         <Background Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="AutoHideResizeGripDisabled">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="AccessKeyToolTipDisabled">
         <Background Type="CT_RAW" Source="80525252" />
@@ -6502,7 +6502,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ErrorListHeader">
-        <Background Type="CT_RAW" Source="FF232323" />
+        <Background Type="CT_RAW" Source="FF3E3E3E" />
         <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
     </Category>
@@ -8081,7 +8081,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="IgnoredSubtitleSelectedText">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="IgnoredTitleMouseOverText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
