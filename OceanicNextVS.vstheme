@@ -725,7 +725,7 @@
         <Background Type="CT_RAW" Source="FF92CAF4" />
       </Color>
       <Color Name="PopupPinButtonHover">
-        <Background Type="CT_RAW" Source="FF3f3f3f" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
         <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="PopupPinButtonMouseDown">
@@ -1609,7 +1609,7 @@
       </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FF3f3f3f" />
+        <Foreground Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2811,7 +2811,7 @@
         <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ButtonHighlight">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="ButtonShadow">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
@@ -2841,10 +2841,10 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="InfoBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="InfoText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Menu">
         <Background Type="CT_RAW" Source="FF1B1B1B" />
@@ -2862,7 +2862,7 @@
         <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ThreeDHighlight">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="ThreeDLightShadow">
         <Background Type="CT_RAW" Source="FF252525" />
@@ -2880,7 +2880,7 @@
         <Background Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="AutoHideTabText">
-        <Background Type="CT_RAW" Source="FFACACAC" />
+        <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="AutoHideTabBackgroundBegin">
         <Background Type="CT_RAW" Source="FF252525" />
@@ -3444,13 +3444,13 @@
         <Background Type="CT_RAW" Source="FF232323" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
-        <Background Type="CT_RAW" Source="FF3f3f3f" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
-        <Background Type="CT_RAW" Source="FF3f3f3f" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ScrollBarThumbGlyph">
-        <Background Type="CT_RAW" Source="FF3f3f3f" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
         <Background Type="CT_RAW" Source="FF9E9E9E" />
@@ -3495,25 +3495,25 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundMiddle1">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundMiddle2">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonPinned">
         <Background Type="CT_RAW" Source="FFF30506" />
       </Color>
       <Color Name="StartPageButtonPinDown">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonPinHover">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageButtonUnpinned">
         <Background Type="CT_RAW" Source="FFF30506" />
@@ -3585,7 +3585,7 @@
         <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="StartPageUnselectedItemBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="StartPageUnselectedItemStroke">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3790,7 +3790,7 @@
         <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="CommandBarTextActive">
-        <Background Type="CT_RAW" Source="77FFFFFF" />
+        <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="CommandBarTextHover">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4249,7 +4249,7 @@
         <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="ToolWindowTabText">
-        <Background Type="CT_RAW" Source="FFACACAC" />
+        <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ToolWindowTabSelectedText">
         <Background Type="CT_RAW" Source="FF2B91AF" />
@@ -8081,7 +8081,7 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="IgnoredSubtitleSelectedText">
-        <Background Type="CT_RAW" Source="FF3f3f3f" />
+        <Background Type="CT_RAW" Source="FF3F3F3F" />
       </Color>
       <Color Name="IgnoredTitleMouseOverText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
