@@ -2877,7 +2877,7 @@
         <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="WindowText">
-        <Background Type="CT_RAW" Source="FFC1C1C1" />
+        <Background Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="AutoHideTabText">
         <Background Type="CT_RAW" Source="FFC1C1C1" />
@@ -2901,7 +2901,7 @@
         <Background Type="CT_RAW" Source="FF282828" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF1B2B34" />
+        <Background Type="CT_RAW" Source="FF174756" />
       </Color>
       <Color Name="AutoHideResizeGrip">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -4538,7 +4538,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CommandBarSplitButtonSeparator">
-        <Background Type="CT_RAW" Source="FF273D4A" />
+        <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="DropDownButtonMouseDownSeparator">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
@@ -5060,7 +5060,7 @@
     <Category Name="Find Results" GUID="{5c48b2cb-0366-4fbf-9786-0bb37e945687}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF252525" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF1B2B34" />
@@ -5068,7 +5068,7 @@
       </Color>
       <Color Name="Current List Location">
         <Background Type="CT_RAW" Source="FF1B2B34" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="Inactive Selected Text">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
@@ -5076,7 +5076,7 @@
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF232323" />
-        <Foreground Type="CT_RAW" Source="FFD7DDE8" />
+        <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="outlining.square">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -5404,7 +5404,7 @@
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF252525" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF1B2B34" />
@@ -5896,31 +5896,31 @@
     </Category>
     <Category Name="NewProjectDialog" GUID="{c36c426e-31c9-4048-84cf-31c111d65ec0}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF282828" />
+        <Background Type="CT_RAW" Source="FF252525" />
       </Color>
       <Color Name="Wonderbar">
         <Background Type="CT_RAW" Source="FF282828" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="WonderbarTreeInactiveSelected">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="WonderbarTreeSelected">
         <Background Type="CT_RAW" Source="FF1B2B34" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Details">
-        <Background Type="CT_RAW" Source="FF282828" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Background Type="CT_RAW" Source="FF252525" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="Content">
         <Background Type="CT_RAW" Source="FF252525" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FFACACAC" />
       </Color>
       <Color Name="ContentMouseOver">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ContentSelected">
         <Background Type="CT_RAW" Source="FF1B2B34" />
@@ -5931,11 +5931,11 @@
       </Color>
       <Color Name="ContentInactiveSelected">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="WonderbarMouseOver">
         <Background Type="CT_RAW" Source="FF252525" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="WonderbarSelectedBorder">
         <Background Type="CT_RAW" Source="FF1B2B34" />
@@ -5945,8 +5945,8 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TreeArrow">
-        <Background Type="CT_RAW" Source="002D2D30" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Background Type="CT_RAW" Source="00303030" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TreeArrowMouseOver">
         <Background Type="CT_RAW" Source="00000000" />
@@ -5954,7 +5954,7 @@
       </Color>
       <Color Name="ImageBorder">
         <Background Type="CT_RAW" Source="FF3E3E3E" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF2B91AF" />
@@ -5970,7 +5970,7 @@
       </Color>
       <Color Name="TextBoxBackground">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TextBoxBorder">
         <Background Type="CT_RAW" Source="FF3F3F3F" />
@@ -7790,7 +7790,7 @@
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF252525" />
-        <Foreground Type="CT_RAW" Source="FFC1C1C1" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="SelectedItemActive">
         <Background Type="CT_RAW" Source="FF1B2B34" />
@@ -7811,7 +7811,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Glyph">
-        <Background Type="CT_RAW" Source="FFC1C1C1" />
+        <Background Type="CT_RAW" Source="FF454545" />
       </Color>
       <Color Name="GlyphMouseOver">
         <Background Type="CT_RAW" Source="FF2B91AF" />
